@@ -1,0 +1,24 @@
+lightdm (1.22.0-1pardus2.1) onyedi; urgency=medium
+
+  * Update control file against dh_gencontrol warnings
+
+ -- Yunusemre Şentürk <yunusemre.senturk@pardus.org.tr>  Tue, 22 Aug 2017 11:23:24 +0300
+
+lightdm (1.22.0-1pardus2.0) onyedi; urgency=medium
+
+  * Implement debian version for Pardus 1.22.0-1
+  * Update control to produce liblightdm-gobject-1-dev
+  * Update library install files and add liblightdm-gobject-1-dev.install
+  * Update config script against installing from scratch
+  * Add lightdm-greeter-session and lightdm-session
+  * Update lightdm.install against new files
+  * Update rules
+  * Add liblightdm-gobject-1-doc package
+
+ -- Yunusemre Şentürk <yunusemre.senturk@pardus.org.tr>  Tue, 22 Aug 2017 11:18:39 +0300
+
+lightdm (1.22.0-1pardus1) onyedi; urgency=low
+
+  * Import Upstream version 1.22.0 .
+
+ -- Yunusemre Şentürk <yunusemre.senturk@pardus.org.tr>  Mon, 21 Aug 2017 09:44:17 +0300
