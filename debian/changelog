@@ -1,3 +1,10 @@
+lightdm (1.22.0-1pardus2.2) onyedi; urgency=medium
+
+  * Pardus CI
+  * Update rules against build error missing dh-translations
+
+ -- Yunusemre Şentürk <yunusemre.senturk@pardus.org.tr>  Fri, 27 Oct 2017 14:17:53 +0300
+
 lightdm (1.22.0-1pardus2.1) onyedi; urgency=medium
 
   * Update control file against dh_gencontrol warnings
